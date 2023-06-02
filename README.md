@@ -1,6 +1,6 @@
 # Írás- és prezentációkészítés
 
-*Hülber László*
+A jegyzet *Hülber László* kurzusa alapján készült, átemelve részletetket részben vagy egészben szószerint, ezáltal nem az én tulajdonom. Kérésre innen eltávolítom.
 
 > A kurzus elvégzése az alábbi tanulási eredmények eléréséhez járul hozzá:
 >
